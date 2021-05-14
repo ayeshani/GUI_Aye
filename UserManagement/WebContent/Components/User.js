@@ -106,7 +106,7 @@ $(document).on("click", ".btnRemove", function(event) {
 });
 
  
-
+//Delete
 function onItemDeleteComplete(response, status) {
     
     if (status == "success") {
